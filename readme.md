@@ -1,4 +1,4 @@
-#####Created Post Time Limit for cleanliness and quickness
+#####Created Post Time Limit for cleanliness
 
 ###Problem:
 Using Javascript, given an array of n integers (example: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 100, 112, 113]), remove all odd numbers, leaving only the even numbers.
